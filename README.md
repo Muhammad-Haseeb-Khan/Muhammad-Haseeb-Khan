@@ -26,7 +26,7 @@
 
   <!-- Face book badge  -->
 <a href="https://web.facebook.com/loveis.live.75">
-    <img src="https://img.shields.io/badge/My%20Profile-black?style=for-the-badge&logo=Profile&logoColor=Green" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/My%20Profile-black?style=for-the-badge&logo=Facebook&logoColor=blue" alt="Facebook Badge"/>
   </a> 
   <!-- Twitter Badge  -->
   <a href="https://twitter.com/ai_phile">
