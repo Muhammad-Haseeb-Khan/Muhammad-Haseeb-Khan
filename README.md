@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning advance python
 - 💞️ I’m looking to collaborate with anyone who intrested in advance python GUI projects 🇵🇰
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He, His, Him
+- ⚡ Fun fact: Cricket 🖤
 
 
 ## 📫 How to reach me :call_me_hand:
